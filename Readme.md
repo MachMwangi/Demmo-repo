@@ -1,1 +1,2 @@
-this is nnot a drill!
+this is not a drill!
+# run if you can
